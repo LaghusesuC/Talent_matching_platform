@@ -1,0 +1,12 @@
+John Doe
+Software Engineer
+Email: john.doe@email.com | Phone: +1 234 567 8900
+Skills: Python, FastAPI, React, PostgreSQL, Docker, Git, Machine Learning
+
+Experience:
+Software Engineer at Tech Corp (2022 - Present)
+- Developed REST APIs using FastAPI and PostgreSQL
+- Built interactive web dashboards using React
+
+Education:
+B.Tech in Computer Science, 2022, CGPA: 8.8
